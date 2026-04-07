@@ -1,2 +1,1 @@
-console.log("Hello world");
-x = 5;
+console.log("Hello World");
