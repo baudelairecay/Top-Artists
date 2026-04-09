@@ -1,0 +1,25 @@
+*{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body{
+    background-color: #333131;
+    text-align: center;
+    place-items: center;
+}
+
+h1{
+    color:white;
+}
+
+#login{
+   background-color: #1ED761;
+   color: #333131;
+   border-radius: 5%;
+   padding: 15px 60px;
+   border: none;
+}
+
+nav{
+    color:white;
+}

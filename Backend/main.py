@@ -38,4 +38,4 @@ def get_artist(ID, type, access): # returns the artist's name
     return response['name']
 
 Mac = get_artist("7eKkW1zo5uzW8kUntiiBvz", type, access)
-print(Mac)
+print(Mac) 
